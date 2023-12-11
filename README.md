@@ -1,4 +1,4 @@
-# board
+# 📄board
 SpringBoot Rest API를 사용한 게시판 프로젝트<br/><br/>
 
 ## 📆개발 기간
